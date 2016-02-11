@@ -1,0 +1,8 @@
+[
+    { "title": 'Reggae', "id": 1 },
+    { "title": 'Change', "id": 2 },
+    { "title": 'Dubstep', "id": 3 },
+    { "title": 'Indie', "id": 4 },
+    { "title": 'Rap', "id": 5 },
+    { "title": 'Country', "id": 6 }
+]
